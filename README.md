@@ -21,11 +21,11 @@ Some more advanced BASH scripts which I have written to assist me:
 and can represent the information the following way:
 
  * Top 10 servers receiving the most packets
-    Showing the amount of packets received by each
+Showing the amount of packets received by each
 
-  * Percentage of "small packets" (maximum 512 bytes)
+ * Percentage of "small packets" (maximum 512 bytes)
 
-  * Percentage of "large packets" (over 512 bytes)
+ * Percentage of "large packets" (over 512 bytes)
 
-  * Top 10 clients sending the most bytes
-    Showing the IP address and the number of bytes sent for each
+ * Top 10 clients sending the most bytes
+Showing the IP address and the number of bytes sent for each
